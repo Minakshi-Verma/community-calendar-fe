@@ -1,4 +1,5 @@
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![Maintainability](https://api.codeclimate.com/v1/badges/00e8f2782b6f83361755/maintainability)
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![Maintainability](https://api.codeclimate.com/v1/badges/4378fc8e309eb9cce9cb/maintainability)(https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMinakshi-Verma%2Fcommunity-calendar-fe)
+
 # Community Calendar Front End
 
 We create incredible neighborhoods and community spaces through meaningful shared events. You can find the deployed project at [Community Calendar](https://www.northendcalendar.com/).
