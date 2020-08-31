@@ -1,8 +1,8 @@
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/8c065a2a-b94a-48b5-83ec-55a863c635d5/deploy-status)](https://app.netlify.com/sites/communitycalendar/deploys) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Maintainability](https://api.codeclimate.com/v1/badges/be4c9e543ea59cfc8469/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/community-calendar-fe/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/be4c9e543ea59cfc8469/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/community-calendar-fe/test_coverage)
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Maintainability](https://api.codeclimate.com/v1/badges/be4c9e543ea59cfc8469/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/community-calendar-fe/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/be4c9e543ea59cfc8469/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/community-calendar-fe/test_coverage)
 
 # Community Calendar Front End
 
-We create incredible neighborhoods and community spaces through meaningful shared events. You can find the deployed project at [Community Calendar](https://www.communitycalendar.xyz).
+We create incredible neighborhoods and community spaces through meaningful shared events. You can find the deployed project at [Community Calendar](https://www.northendcalendar.com/).
 
 - [Contributors](#contributors)
 - [Project Overview](#project-overview)
