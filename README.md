@@ -1,4 +1,4 @@
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![Maintainability](https://api.codeclimate.com/v1/badges/4378fc8e309eb9cce9cb/maintainability) ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fminakshi_12)
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![Maintainability](https://api.codeclimate.com/v1/badges/4378fc8e309eb9cce9cb/maintainability) ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fminakshi_12) [![HitCount](http://hits.dwyl.com/https://githubcom/Minakshi-Verma//community-calendar-fe.svg)](http://hits.dwyl.com/https://githubcom/Minakshi-Verma//community-calendar-fe)
 
 # Community Calendar Front End
 
